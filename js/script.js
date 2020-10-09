@@ -3,3 +3,4 @@ const slide = new Slide('.slide', '.slide-wrapper');
 slide.init();
 
 slide.cheangeSlide(3);
+slide.activePrevSlide();
